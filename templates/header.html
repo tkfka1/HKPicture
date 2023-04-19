@@ -1,0 +1,32 @@
+
+    <div class="hkpictures_header">
+        <div>
+            <h1 class="hkpictures_logo">HKPictures</h1>
+        </div>
+        <div class="hkpictures_header_navbar">
+            <a href="{% url 'articleapp:list' %}" class="prgmatic_header_nav">
+                <span>이미지</span>
+            </a>
+            <a href="{% url 'projectapp:list' %}" class="prgmatic_header_nav">
+                <span>주제</span>
+            </a>
+            <a href="{% url 'subscribeapp:list' %}" class="prgmatic_header_nav">
+                <span>구독중</span>
+            </a>
+            {% if not user.is_authenticated %}
+            <a href="{% url 'accountapp:login' %}?next={{ request.path }}" class="prgmatic_header_nav">
+                <span>로그인</span>
+            </a>
+            <a href="{% url 'accountapp:create' %}" class="prgmatic_header_nav">
+                <span>회원가입</span>
+            </a>
+            {% else %}
+            <a href="{% url 'accountapp:detail' pk=user.pk %}" class="prgmatic_header_nav">
+                <span>마이페이지</span>
+            </a>
+            <a href="{% url 'accountapp:logout' %}?next={{ request.path }}" class="prgmatic_header_nav">
+                <span>로그아웃</span>
+            </a>
+            {% endif %}
+        </div>
+    </div>

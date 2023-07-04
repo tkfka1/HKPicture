@@ -38,7 +38,8 @@ Python 이라는 언어를 사용함으로 앞으로 AI의 기능을 통해 이�
 
 ## DB
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b54a7760-cf65-4282-825c-43ebf0fbf5f3/Untitled.png)
+![image](https://github.com/tkfka1/HKPicture/assets/36651040/e8f2c18f-c992-4818-86dc-8c44fedb6d09)
+
 
 - 기본적인 장고의 user와 group을 이용해서 user부분을 구성했다.
 - **profileapp (프로필)**
@@ -54,7 +55,8 @@ Python 이라는 언어를 사용함으로 앞으로 AI의 기능을 통해 이�
 
 ## App
 
-![test.svg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ccd4540a-782e-43a8-9878-deb94f0809d1/test.svg)
+![test](https://github.com/tkfka1/HKPicture/assets/36651040/98325cb6-2483-4fde-a097-45f6f41a130f)
+
 
 ### 기능 구성
 
@@ -90,27 +92,33 @@ Python 이라는 언어를 사용함으로 앞으로 AI의 기능을 통해 이�
 
 **회원가입**
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/04373983-9a5a-4f30-82da-3d146e3858d0/Untitled.png)
+![image](https://github.com/tkfka1/HKPicture/assets/36651040/3ed622de-20d9-4cc6-9287-34326731c00f)
+
 
 **이미지**
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bd51465d-81dd-479c-a0e6-99491e5954a1/Untitled.png)
+![image](https://github.com/tkfka1/HKPicture/assets/36651040/4aa7b8cd-f335-405f-acb8-99aa7c483c42)
+
 
 **주제**
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/33112c47-3724-488d-ab06-67a88154b413/Untitled.png)
+![image](https://github.com/tkfka1/HKPicture/assets/36651040/4723a236-c107-465e-ad56-27040703d6c4)
+
 
 **구독중 주제**
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6b8f3ec4-75b7-45cb-90d7-071b0f33a10e/Untitled.png)
+![image](https://github.com/tkfka1/HKPicture/assets/36651040/f1617dfe-5c09-4904-b4ad-548447d83e3e)
+
 
 **마이페이지**
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/32c4c092-24f8-46f9-8b17-445289c91794/Untitled.png)
+![image](https://github.com/tkfka1/HKPicture/assets/36651040/ae0fc51c-5454-4ef9-bdd6-056763bbf11e)
+
 
 **마이페이지-정보수정**
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f63a1325-6e5b-4787-aa12-1d9fd82cab91/Untitled.png)
+![image](https://github.com/tkfka1/HKPicture/assets/36651040/5303cd45-0f3b-45eb-bc42-8af19bad2afd)
+
 
 ### 개선점, 후기
 
